@@ -1,0 +1,38 @@
+header{
+    justify-content:space-between;
+       background-color: rgb(173, 164, 164);
+       display:flex;
+       border-radius: 10px;
+}
+.header-left img{
+     max-width: 30%; 
+     height:auto
+}
+.header-right{
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+    
+}
+h1,p{
+    
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+li{
+    display: inline;
+}
+.nav-bar ul {
+    display: inline;
+    background-color: rgb(231, 231, 34);
+    justify-content: space-between;
+    text-align: center;
+    
+}
+ .nav-bar li {
+    display: inline;
+    background-color: rgb(231, 231, 34);
+    justify-content: space-between;
+    text-align: center;
+}
