@@ -13,8 +13,8 @@ body {
 /* Header Styles */
 
 header {
-    background: linear-gradient(135deg, #116fdb, #0f66e8);
-    color: white;
+    background: linear-gradient(135deg, #aed62b, #abdc24);
+    color: rgb(32, 30, 30);
     height: 190px;              
     overflow: visible;
 }
@@ -30,7 +30,7 @@ header {
 }
 
 .header-left img {
-    height: 500px;            
+    height: 120px;            
     width: auto;
     max-width: 100%;
     object-fit: contain;
